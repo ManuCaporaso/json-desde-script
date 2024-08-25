@@ -1,0 +1,12 @@
+[
+    { "id": 1, "nombre": "Harry Potter", "casa": "Gryffindor", "imagen": "assets/images/Gryffindor.png" },
+    { "id": 2, "nombre": "Hermione Granger", "casa": "Gryffindor", "imagen": "assets/images/Gryffindor.png" },
+    { "id": 3, "nombre": "Ron Weasley", "casa": "Gryffindor", "imagen": "assets/images/Gryffindor.png" },
+    { "id": 4, "nombre": "Draco Malfoy", "casa": "Slytherin", "imagen": "assets/images/Slytherin.png" },
+    { "id": 5, "nombre": "Luna Lovegood", "casa": "Ravenclaw", "imagen": "assets/images/Ravenclaw.png" },
+    { "id": 6, "nombre": "Cho Chang", "casa": "Ravenclaw", "imagen": "assets/images/Ravenclaw.png" },
+    { "id": 7, "nombre": "Cedric Diggory", "casa": "Hufflepuff", "imagen": "assets/images/Hufflepuff.png" },
+    { "id": 8, "nombre": "Neville Longbottom", "casa": "Gryffindor", "imagen": "assets/images/Gryffindor.png" },
+    { "id": 9, "nombre": "Pansy Parkinson", "casa": "Slytherin", "imagen": "assets/images/Slytherin.png" },
+    { "id": 10, "nombre": "Susan Bones", "casa": "Hufflepuff", "imagen": "assets/images/Hufflepuff.png" }
+]
